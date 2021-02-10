@@ -1,0 +1,7 @@
+body {
+  background-image: url('https://i.pinimg.com/originals/79/af/6c/79af6c8eade1aab07a10d6098c56bf06.jpg');
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
